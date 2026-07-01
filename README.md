@@ -1,4 +1,4 @@
-<img src="assets/tiplet-wordmark-dark.png" width="320" alt="Tiplet">
+<img src="assets/tiplet-wordmark-black.png" width="210" alt="Tiplet">
 
 **Send a tip that lasts forever.**
 
