@@ -1,10 +1,10 @@
-# Tiplet
+<img src="assets/tiplet-wordmark-dark.png" width="320" alt="Tiplet">
 
-**Drop a tip with a note. They get real money, plus a one-of-a-kind collectible made from your note.**
+**Send a tip that lasts forever.**
+
+Drop a tip with a note. They get real money, plus a one-of-a-kind collectible made from your note.
 
 [![Powered by XRPL](https://img.shields.io/badge/Powered%20by-XRPL-AFE6CE)](https://xrpl.org)
-
-<img align="left" src="assets/tiplet-logo.png" width="120" alt="Tiplet logo, a cosmic navy tile with the tiplet wordmark and a small cluster of dots above the i, over a soft aurora sweep">
 
 Tiplet is a dead-simple way to tip someone in the real world. You send a small tip, it lands
 in the recipient's own wallet as spendable money, and your thank-you note becomes a one-of-a-kind
@@ -12,8 +12,6 @@ art collectible that is minted to their wallet as an NFT.
 
 Built on the XRP Ledger. No app for the recipient to install. No lock-in. You never hand your
 money to us.
-
-<br clear="left">
 
 > **This repo is the concept and the tester guide, not the code.** It explains what Tiplet is
 > and walks new testers through trying it on the XRP Ledger **Testnet**. If you were invited to
