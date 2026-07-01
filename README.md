@@ -2,8 +2,6 @@
 
 **Send a tip that lasts forever.**
 
-Drop a tip with a note. They get real money, plus a one-of-a-kind collectible made from your note.
-
 [![Powered by XRPL](https://img.shields.io/badge/Powered%20by-XRPL-AFE6CE)](https://xrpl.org)
 
 Tiplet is a dead-simple way to tip someone in the real world. You send a small tip, it lands
